@@ -97,4 +97,3 @@ function calculateRank({
 }
 
 export { calculateRank };
-export default calculateRank;
